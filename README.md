@@ -1,4 +1,4 @@
-main.py train file
+main.py train file \n
 LA_GUT_MHD.py proposed network
 dataset.py data process function
 inference.py model predict
